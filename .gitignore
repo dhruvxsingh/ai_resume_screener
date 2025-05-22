@@ -1,0 +1,10 @@
+# Python
+myenv/
+__pycache__/
+
+# Node
+node_modules/
+
+# Vite
+dist/
+.env
