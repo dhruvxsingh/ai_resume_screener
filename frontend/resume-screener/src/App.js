@@ -4,7 +4,7 @@ import FileUpload from "./components/fileupload";
 function App() {
   return (
     <div className="App">
-      <h1>AI Resume Screener</h1>
+      <h1>AI Screener</h1>
       <FileUpload />
     </div>
   );
