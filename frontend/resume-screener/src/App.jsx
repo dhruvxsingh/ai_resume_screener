@@ -1,5 +1,4 @@
-import React from "react";
-import { Routes, Route, Link, Navigate } from "react-router-dom";
+import { Routes, Route, Navigate } from "react-router-dom";
 import RecruiterLogin from "./components/RecruiterLogin";
 import CandidateLogin from "./components/CandidateLogin";
 import RecruiterDashboard from "./components/RecruiterDashboard";

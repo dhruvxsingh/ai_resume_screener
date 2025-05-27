@@ -1,4 +1,3 @@
-import React from "react";
 
 function RecruiterDashboard() {
   // Dummy data; replace with fetched data from backend
